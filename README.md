@@ -32,6 +32,4 @@ hello@localfirstlab.org
 https://localfirstlab.org
 ```
 
-working notes, not promises. pseudonymous by design: judge the work, not
-the name. if a readme here says a model can be wrong, that is the honest
-part, not the disclaimer.
+
