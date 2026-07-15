@@ -8,6 +8,10 @@ lfl-terminal/         a terminal for your browser. deterministic commands,
                       approve before they touch the page. loopback-only;
                       page content never leaves the machine.
 
+lfl-lab/              an open research bench for lfl-terminal: swap local
+                      models behind a fixed, human-approved action set and
+                      stress-test the trust boundary with adversarial pages.
+
 supervised-ops-demo/  a worked example of supervised AI operations for a
                       small business: an LLM triages and drafts, a human
                       approves, edits, or rejects every reply before it
@@ -21,11 +25,9 @@ local-claude-proxy/   point Anthropic-style tooling at a fully local model.
 python-toolbox/       small, dependency-light python utilities for file
                       wrangling, log monitoring, and data conversion.
 
-$ cat work-with-me
-i help small firms and individuals run private AI: local models on your
-own hardware, so sensitive documents (legal, medical, financial) never
-touch a third-party API. also self-hosting migrations, privacy audits of
-your stack, and small python automation. fixed-price pilots.
+$ cat focus
+builds open-source LLM and AI projects, local-first: models run on your
+own hardware and your data stays on your machine.
 
 $ cat contact
 hello@localfirstlab.org
